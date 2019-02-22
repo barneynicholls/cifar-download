@@ -9,6 +9,10 @@ namespace Cifar10Download
 {
     internal static class Program
     {
+        /// <summary>
+        /// Based on source code downloaded from a link in this article https://bhrnjica.net/2019/01/03/create-cifar-10-deep-learning-model-with-anndotnet-gui-tool/
+        /// </summary>
+
         //CIFAR-10 data
 #pragma warning disable S1075 // URIs should not be hardcoded
         private static readonly string cifarUrl = "http://www.cs.toronto.edu/~kriz/cifar-10-binary.tar.gz";
