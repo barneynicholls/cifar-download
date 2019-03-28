@@ -14,3 +14,8 @@ Alternatively you can download a zip file of the extracted images from here:
 
 https://1drv.ms/u/s!AhOeHrxEH7VM2AywgPliAatTQCvH
 
+A really light version with just 100 training images of each category and 10 test images for each:
+
+https://1drv.ms/u/s!AhOeHrxEH7VM2BwIHI5dFPY34rXs
+
+
